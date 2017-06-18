@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weather>
+    <city name="长沙">
+   <week id='1'>
+        <name>晴天</name>
+        <temp>23℃</temp>
+        <wet>81%</wet>
+        <wind>10米/s</wind>
+    </week>
+    <week id='2'>
+        <name>小雨</name>
+        <temp>23℃</temp>
+        <wet>81%</wet>
+        <wind>10米/s</wind>
+    </week>
+    <week id='3'>
+         <name>晴天多云</name>
+        <temp>23℃</temp>
+        <wet>81%</wet>
+        <wind>10米/s</wind>
+    </week>
+    <week id='4'>
+         <name>多雾</name>
+        <temp>23℃</temp>
+        <wet>81%</wet>
+        <wind>10米/s</wind>
+    </week>
+    <week id='5'>
+         <name>小雪</name>
+        <temp>0℃</temp>
+        <wet>81%</wet>
+        <wind>10米/s</wind>
+    </week>
+    <week id='6'>
+         <name>小雨</name>
+        <temp>23℃</temp>
+        <wet>81%</wet>
+        <wind>10米/s</wind>
+    </week>
+    <week id='7'>
+        <name>雷电天气</name>
+        <temp>23℃</temp>
+        <wet>81%</wet>
+        <wind>10米/s</wind>
+    </week>
+    </city>
+</weather>
